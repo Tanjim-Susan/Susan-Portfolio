@@ -1,6 +1,6 @@
-import Certificates from "./pages/Certificates";
+import Certificates from "./pages/certificates";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import ProjectViewer from "./pages/ProjectViewer";
+import ProjectViewer from "./pages/projectViewer";
 import { About, Contact, Experience, Hero, Navbar, Tech, Works, StarsCanvas } from "./components";
 import Projects from "./pages/Projects";
 import CertificateViewer from "./pages/CertificateViewer";
